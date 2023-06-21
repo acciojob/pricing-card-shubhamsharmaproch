@@ -1,1 +1,34 @@
 /*  your css code here. If applicable */
+.card img {
+	width:230px;
+}
+.price {
+	border:3px solid #F1F1F1;
+	background:#F1F1F1;
+	padding:50px 50px;
+	width: 230px;
+	margin:40px auto;
+}
+.buy button {
+	border-radius:15px;
+	background:#FE625A;
+	color:white;
+	border: 2px solid #FE625A;
+	font-size:30px;
+	padding:10px;
+	margin:20px;
+}
+.pricing {
+	font-size:41px;
+	font-weight:bold;
+}
+#pri {
+	text-align: center;
+}
+.rs {
+	font-weight:bold;
+	text-align:center;
+	font-size:20px;
+	color:#4E4E4E;
+	margin:20px
+}
